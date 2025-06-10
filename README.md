@@ -8,6 +8,6 @@ I'll use this to test things, share small projects, and document the journey as 
 Nothing fancy (yet). Just building in the open.
 
 ---
-![Alt text](./me.png)
+![Alt text](./me.jpeg)
 
 📍 [Live site](https://holy-agyei.github.io)
